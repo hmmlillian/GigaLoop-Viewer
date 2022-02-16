@@ -27,7 +27,7 @@ The viewer is implemented in C++ and requires compiling ```code\VideoViewer.sln`
 ### Demo & Run
 We prepare a pre-built executable program under the folder ```demo\exe```. To try it, please
 
-(1) Put the video tiles under the folder ```demo\data```. We provide an [example](https://drive.google.com/file/d/1bqa3BEZwWITIsNASyO42oOLDA5cKuMEM/view?usp=sharing) for reference.
+(1) Put the video tiles under the folder ```demo\data```. We provide an [example](https://drive.google.com/file/d/182GCp9kKsgjNJOWEuIpF1YCFxOM9IhZm/view?usp=sharing) for reference.
 
 (2) Executable script ```demo\run.bat``` including the following commands:
   ```
